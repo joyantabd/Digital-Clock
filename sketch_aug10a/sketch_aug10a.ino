@@ -1,8 +1,7 @@
 /* 
-Digital Winding Clock - Arduino Clock for beginners   
-No RTC, 
+Digital Winding Clock - Arduino Clock for beginners    
 Just set it to exact time using the push buttons each time you switch on the clock 
-Made by Techno (sǝɹoɟ ǝǝןuuɐ) 
+Made by Net-Bug 
 Feel free to modify 
 */ 
 #include <LiquidCrystal.h> 
